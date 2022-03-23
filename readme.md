@@ -29,7 +29,7 @@ Update the `cart.js` file to do the following:
   - console.log each individual item on a new line
 
 - Create a function called `empty`. It should:
-  - reset the `basket` to an empty array
+- reset the `basket` to an empty array
 
 > __IMPORTANT__
 > Make sure that you are writing code *in the file* to test every function that you write!
